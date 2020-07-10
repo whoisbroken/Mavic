@@ -7,4 +7,4 @@
 <li>GULP</li>
 
 # Build on GitHub Pages
-<https://whoisbroken.github.io/Mavic/app/index.html>
+<https://whoisbroken.github.io/Mavic/app/>
