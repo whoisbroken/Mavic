@@ -60,9 +60,13 @@
       font-weight: 500;
       font-size: 15px;
       line-height: 17px;
-
-
     }
+  }
+  &__list-phone {
+    display: none;
+  }
+  &__btn {
+    display: none;
   }
 }
 
